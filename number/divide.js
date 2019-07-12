@@ -46,4 +46,5 @@ function longCommonPrefix(str1, str2){
     }
     let resultArr = []
     let i = 0
+
 }
