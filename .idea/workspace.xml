@@ -16,7 +16,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/arr/sortedArr" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -30,6 +35,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="977-squareSortedArr.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arr/sortedArr/977-squareSortedArr.js" working-dir="$PROJECT_DIR$/arr">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.977-squareSortedArr.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -40,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564824526307</updated>
-      <workItem from="1564824527434" duration="1256000" />
+      <workItem from="1564824527434" duration="5321000" />
     </task>
     <servers />
   </component>
