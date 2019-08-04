@@ -14,3 +14,17 @@
 // 1 <= heights[i] <= 100
 
 // 主要是理解题意: 排序后比较和原数组有多少不一样
+
+function howMany(arr){
+	let old = [...arr]
+	let newArr = arr.sort((a, b)=>{return a-b})
+	let howMany = 0
+	for (let i = 0; i < newArr.length; i++) {
+		if (old[i] !== newArr[i]){
+			howMany++
+		}
+	}
+	return howMany
+}
+
+console.log(howMany([1,1,4,2,1,3]))
