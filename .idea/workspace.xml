@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arr/unSortedArr/832-reverseImage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arr/unSortedArr/922-sortByOddAndEven.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arr/multi-arr/merge-two-sorted-arr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arr/sortedArr/88-mergeTwoSortedArr.js" beforeDir="false" afterPath="$PROJECT_DIR$/arr/multi-arr/88-mergeTwoSortedArr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arr/unSortedArr/832-reverseImage.js" beforeDir="false" afterPath="$PROJECT_DIR$/arr/multi-arr/832-reverseImage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,14 +51,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.832-reverseImage.js">
+  <component name="RunManager" selected="Node.js.922-sortByOddAndEven.js">
     <configuration name="217-isDepArr.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="217-isDepArr.js" working-dir="$PROJECT_DIR$/arr/unSortedArr">
       <method v="2" />
     </configuration>
-    <configuration name="66-add1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="66-add1.js" working-dir="$PROJECT_DIR$/arr/unSortedArr">
-      <method v="2" />
-    </configuration>
-    <configuration name="832-reverseImage.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="832-reverseImage.js" working-dir="$PROJECT_DIR$/arr/unSortedArr">
+    <configuration name="832-reverseImage.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arr/multi-arr/832-reverseImage.js" working-dir="$PROJECT_DIR$/arr/unSortedArr">
       <method v="2" />
     </configuration>
     <configuration name="867-translateMatrix.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="867-translateMatrix.js" working-dir="$PROJECT_DIR$/arr/unSortedArr">
@@ -68,13 +64,16 @@
     <configuration name="88-mergeTwoSortedArr.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arr/multi-arr/88-mergeTwoSortedArr.js" working-dir="$PROJECT_DIR$/arr/sortedArr">
       <method v="2" />
     </configuration>
+    <configuration name="922-sortByOddAndEven.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="922-sortByOddAndEven.js" working-dir="$PROJECT_DIR$/arr/unSortedArr">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.922-sortByOddAndEven.js" />
         <item itemvalue="Node.js.832-reverseImage.js" />
         <item itemvalue="Node.js.867-translateMatrix.js" />
         <item itemvalue="Node.js.88-mergeTwoSortedArr.js" />
         <item itemvalue="Node.js.217-isDepArr.js" />
-        <item itemvalue="Node.js.66-add1.js" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +92,7 @@
       <workItem from="1565096483614" duration="283000" />
       <workItem from="1565182941330" duration="2193000" />
       <workItem from="1565222832720" duration="1750000" />
-      <workItem from="1565262716785" duration="502000" />
+      <workItem from="1565262716785" duration="2247000" />
     </task>
     <servers />
   </component>
