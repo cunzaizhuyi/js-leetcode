@@ -16,7 +16,7 @@
  * @return {void} Do not return anything, modify s in-place instead.
  */
 var reverseString = function(s) {
-    if (!s.length) return '';
+    if (!s.length) return [];
     if(s.length === 1) return s;
     
     let prev = 0;
@@ -26,9 +26,7 @@ var reverseString = function(s) {
         if (next - prev === 0 || next - prev === -1) {
             return s;
         }
-        let temp = s[prev];
-        s[prev] = s[next];
-        s[next] = temp;
+        [s[prev], s[next]] = [s[next], s[prev]]
         next--;
         prev++;
     }
