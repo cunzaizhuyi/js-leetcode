@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/str/557-反转字符串中的单词.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/str/788-旋转数字.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/str/520-检测大写字母.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/str/521-最长特殊序列.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/str/539-medium-最小时间差.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/str/58-最后一个单词长度.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/str/917-仅仅反转字母.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/344-反转字符串.js" beforeDir="false" afterPath="$PROJECT_DIR$/str/344-反转字符串.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,10 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.788-旋转数字.js">
-    <configuration name="287-lookforRepeatNumber.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="287-lookforRepeatNumber.js" working-dir="$PROJECT_DIR$/doubleIndex">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.917-仅仅反转字母.js">
     <configuration name="344-反转字符串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="344-反转字符串.js" working-dir="$PROJECT_DIR$/str">
       <method v="2" />
     </configuration>
@@ -68,13 +67,16 @@
     <configuration name="788-旋转数字.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="788-旋转数字.js" working-dir="$PROJECT_DIR$/str">
       <method v="2" />
     </configuration>
+    <configuration name="917-仅仅反转字母.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="917-仅仅反转字母.js" working-dir="$PROJECT_DIR$/str">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.917-仅仅反转字母.js" />
         <item itemvalue="Node.js.788-旋转数字.js" />
         <item itemvalue="Node.js.557-反转字符串中的单词.js" />
         <item itemvalue="Node.js.344-反转字符串.js" />
         <item itemvalue="Node.js.383-赎金信.js" />
-        <item itemvalue="Node.js.287-lookforRepeatNumber.js" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +99,8 @@
       <workItem from="1565351394599" duration="2928000" />
       <workItem from="1565392834215" duration="6647000" />
       <workItem from="1565414688425" duration="262000" />
-      <workItem from="1565415017018" duration="1239000" />
+      <workItem from="1565415017018" duration="4531000" />
+      <workItem from="1565479846987" duration="220000" />
     </task>
     <servers />
   </component>
