@@ -45,9 +45,11 @@ LeetCode刷题仓库
 * 509 斐波那契数
 
 ## 数学
+* 9 easy 回文数
 * 171 easy Excel表列序号
 * 202 easy 快乐数
 * 223 medium 矩形面积
 * 258 easy 各位相加
 * 279 medium 完全平方数
 * 728 easy 自除数
+* 976 easy 三角形的最大周长
