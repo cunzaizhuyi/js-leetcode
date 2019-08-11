@@ -51,5 +51,6 @@ LeetCode刷题仓库
 * 223 medium 矩形面积
 * 258 easy 各位相加
 * 279 medium 完全平方数
+* 453 easy 最小移动次数使数组元素相等
 * 728 easy 自除数
 * 976 easy 三角形的最大周长
