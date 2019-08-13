@@ -46,11 +46,14 @@ LeetCode刷题仓库
 
 ## 数学
 * 9 easy 回文数
+* 69 easy x的平方根
+* 168 easy excel列名称
 * 171 easy Excel表列序号
 * 202 easy 快乐数
 * 223 medium 矩形面积
 * 258 easy 各位相加
 * 279 medium 完全平方数
+* 326 easy 3的幂
 * 453 easy 最小移动次数使数组元素相等
 * 728 easy 自除数
 * 976 easy 三角形的最大周长
