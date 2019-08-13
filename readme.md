@@ -1,6 +1,7 @@
 LeetCode刷题仓库
 
 针对一些题目录制的讲解视频。放在了在B站，免费，无广告，欢迎观看~
+
 https://space.bilibili.com/443094046
 
 ## 数组类
@@ -49,14 +50,17 @@ https://space.bilibili.com/443094046
 
 ## 数学
 * 9 easy 回文数
+* 67 easy 二进制求和
 * 69 easy x的平方根
 * 168 easy excel列名称
 * 171 easy Excel表列序号
 * 202 easy 快乐数
 * 223 medium 矩形面积
+* 231 easy 2的幂
 * 258 easy 各位相加
 * 279 medium 完全平方数
 * 326 easy 3的幂
 * 453 easy 最小移动次数使数组元素相等
 * 728 easy 自除数
+* 836 easy 矩形重叠
 * 976 easy 三角形的最大周长
