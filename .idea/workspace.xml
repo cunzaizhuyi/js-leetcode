@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/math/231-easy-2的幂.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math/67-easy-二进制求和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math/836-easy-矩形重叠.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/367-easy-有效的完全平方数.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
@@ -104,7 +102,7 @@
       <workItem from="1565656604920" duration="276000" />
       <workItem from="1565657259782" duration="417000" />
       <workItem from="1565657755484" duration="479000" />
-      <workItem from="1565694473022" duration="2559000" />
+      <workItem from="1565694473022" duration="3976000" />
     </task>
     <servers />
   </component>

@@ -60,6 +60,7 @@ https://space.bilibili.com/443094046
 * 258 easy 各位相加
 * 279 medium 完全平方数
 * 326 easy 3的幂
+* 367 easy 有效的完全平方数
 * 453 easy 最小移动次数使数组元素相等
 * 728 easy 自除数
 * 836 easy 矩形重叠
