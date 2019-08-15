@@ -28,6 +28,7 @@ https://space.bilibili.com/443094046
 
 #### 排序
 * 75 颜色分类
+* 274 easy h指数
 
 
 ## 双指针
