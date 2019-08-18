@@ -4,6 +4,8 @@ LeetCode刷题仓库
 
 https://space.bilibili.com/443094046
 
+如果你有更好的解法或者疑问，欢迎提交issue。
+
 ## 数组类
 * 26 删除排序数组中的重复项
 * 27 移除元素
