@@ -105,6 +105,7 @@ LeetCode刷题仓库
 * 575 easy 分糖果
 * 771 easy 石头与宝石
 * 884 easy 两句话中的不常见单词
+* 953 easy 验证外星语词典
 * 961 easy 重复N次的元素
 * 1078 easy bigram分词
 
