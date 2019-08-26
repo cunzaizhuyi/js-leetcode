@@ -5,63 +5,58 @@
 
 /**
  * 哈希法判断 两个词是不是字母异位词
- * @param {string} s
- * @param {string} t
+ * @param {string} a
+ * @param {string} b
  * @return {boolean}
  */
-var isAnagram = function(s, t) {
-    if(s.length !== t.length) return false;
+var isAnagram = function(a, b) {
+    if (a.length !== b.length) return false;
 
-    let h1 = {}, h2 = {}
-    for(let i = 0; i < s.length; i++){
-        if (!h1[s[i]]) h1[s[i]] = 1
-        else h1[s[i]]++;
-
-        if (!h2[t[i]]) h2[t[i]] = 1
-        else h2[t[i]]++;
-    }
-
-    for (const key in h1) {
-        if (!h2[key] || h2[key] !== h1[key]){
-            return false
+    let hash = {}
+    for (let i = 0; i < a.length; i++){
+        if (!hash[a[i]]) hash[a[i]] = 1;
+        else {
+            hash[a[i]]++;
         }
     }
-    return true
+
+    for (let j = 0; j < b.length; j++){
+        if (!hash[b[j]]) return false;
+        else {
+            if (hash[b[j]] > 1) {
+                hash[b[j]]--;
+            } else {
+                delete hash[b[j]]
+            }
+        }
+    }
+    return true;
+
 };
 
 
 /**
- * @param {string[]} strs
+ * @param {string[]} arr
  * @return {string[][]}
  */
-var groupAnagrams = function(strs) {
-    if (strs.length === 1) return [strs]
-
-    let findOneGroup = (arr) => {
-        if (arr.length === 1) {
-            let gArr = [arr[0]]
-            arr.splice(0, 1)
-            return gArr;
-        }
-        // 有两个及以上数据时
-        let gArr = [arr[arr.length - 1]]
-        let origin = arr.splice(arr.length - 1, 1)[0]
-        for (let i = arr.length - 1; i >= 0; i--) {
-            if (isAnagram(arr[i], origin)){
-                gArr.push(arr[i])
-                arr.splice(i, 1)
-            }
-        }
-        return gArr;
-    }
+var groupAnagrams = function(arr) {
+    if (arr.length === 1) return [arr]
 
     let resultArr = []
-    while(strs.length > 0){
-        resultArr.push(findOneGroup(strs))
+    while(arr.length > 0){
+        let group = [arr[arr.length - 1]];
+        arr.splice(arr.length - 1, 1);
+        for (let j = arr.length - 1; j >= 0; j--){
+            if (isAnagram(arr[j], group[0])){
+                group.push(arr[j]);
+                arr.splice(j, 1);
+            }
+        }
+        resultArr.push(group);
     }
-    return resultArr;
+    return resultArr
 };
 
-// console.log(groupAnagrams([""]));
+console.log(groupAnagrams([""]));
 console.log(groupAnagrams(["a"]));
-// console.log(groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]));
+console.log(groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]));
