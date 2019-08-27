@@ -1,6 +1,5 @@
 // 551 easy 学生出勤记录1
 //
-//
 // 给定一个字符串来代表一个学生的出勤记录，这个记录仅包含以下三个字符：
 //
 // 'A' : Absent，缺勤
@@ -30,15 +29,9 @@ var checkRecord = function(s) {
     }
     
     let hasGtThreeL = false; // 有没有连续3个及以上L
-    for(let i = 2; i < s.length - 2; i++){
-        if (s[i] === 'L'){
-            let count = 1
-            for(let j = i - 2; j <= i + 2; j++){
-                if(j!==i && s[j] === 'L'){
-                    count++;
-                }
-            }
-            if(count >= 3) hasGtThreeL = true
+    for(let i = 0; i < s.length - 2; i++){
+        if (s[i] === 'L' && s[i+1] === 'L' && s[i+2] === 'L'){
+            hasGtThreeL = true
         }
     }
     
@@ -47,4 +40,4 @@ var checkRecord = function(s) {
 };
 
 // console.log(checkRecord('PPALLP'))
-console.log(checkRecord('PPALLL'))
+console.log(checkRecord('LLL'))
