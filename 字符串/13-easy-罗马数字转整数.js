@@ -42,6 +42,7 @@
 
 
 /**
+ * ❎
  * @param {string} s
  * @return {number}
  */
@@ -53,16 +54,25 @@ var romanToInt = function(s) {
         return vArr[sixArr.indexOf(s)]
     }
 
-    
+
     let str = 'IVXLCDM'
     let romeValue = [1,5,10,50,100,500,1000]
     let arrRome = str.split('')
     let sum = 0
-    for(let i = 0; i < s.length; i++){
-        let index = arrRome.indexOf(s[i])
-        sum += romeValue[index]
+    let strArr = s.split('')
+    while(strArr.length > 0){
+        // 1个或者两个往外拿
+        let index = sixArr.indexOf((strArr[0] + strArr[1]))
+        if (index > -1){
+            sum += vArr[index]
+            strArr.splice(0, 2);
+        } else {
+            let index = arrRome.indexOf(strArr[0])
+            sum += romeValue[index]
+            strArr.splice(0, 1);
+        }
     }
     return sum;
 };
 
-console.log(romanToInt('LVIII'))
+console.log(romanToInt("MCMXCIV")) //1994

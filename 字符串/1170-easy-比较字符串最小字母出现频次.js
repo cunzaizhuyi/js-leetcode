@@ -47,9 +47,7 @@ var numSmallerByFrequency = function(queries, words) {
                 count++;
             }
         }
-        if(count){
-            resultArr.push(count)
-        }
+        resultArr.push(count)
     }
     return resultArr
 };
