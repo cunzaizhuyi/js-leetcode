@@ -36,4 +36,4 @@ function fib(n){
 	return result
 }
 
-console.log(fib(5))
+console.log(fib(27))
