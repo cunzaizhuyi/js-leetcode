@@ -16,7 +16,7 @@ class BST {
     }
 
 
-    // 给一个值，作为节点插入树
+    // 给一个值，作为节点插入树。顺便解决了LeetCode701题
     insert(value) {
         if (!this.root) {
             this.root = new Node({value})
