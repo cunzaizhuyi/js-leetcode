@@ -84,7 +84,7 @@ class BST {
     }
 
 
-    // 前序遍历
+    // 前序遍历。LeetCode938、LeetCode530.
     preTraversal(root){
         if (!root) return [];
         let arr = []
