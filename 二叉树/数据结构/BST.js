@@ -88,7 +88,7 @@ class BST {
     preTraversal(root){
         if (!root) return [];
         let arr = []
-        let curNode = this.root;
+        let curNode = root;
         let fn = (curNode) => {
             arr.push(curNode.value)
             if (curNode.left){
