@@ -48,7 +48,7 @@ class BST {
     }
 
 
-    // 查找某个值是否存在，返回bool
+    // 查找某个值是否存在，返回bool。顺便解决LeetCode700题
     search(value) {
         if (!this.root) return false;
         if (this.root.value === value) {
