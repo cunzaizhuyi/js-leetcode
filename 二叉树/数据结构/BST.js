@@ -103,17 +103,26 @@ class BST {
     }
 
 
-    // leetcode 938 二叉搜索树的范围和。前序遍历可搞定
-    rangeSumBST(root, L, R){
-        let arr = this.preTraversal(root)
+    // 层序遍历
+    levelOrder(root){
+        if(!root) return []
 
-        let sum = 0
-        for(let i = 0; i < arr.length; i++){
-            if(arr[i] <= R && arr[i] >= L){
-                sum += arr[i]
-            }
+        let arr = []
+        let fn = (nodeArr) => {
+            let nextLevelNodes = []
+            nodeArr.forEach((node) => {
+                arr.push(node.value)
+                if(node.left){
+                    nextLevelNodes.push(node.left)
+                }
+                if(node.right){
+                    nextLevelNodes.push(node.right)
+                }
+            })
+            if(nextLevelNodes.length){fn(nextLevelNodes)}
         }
-        return sum;
+        fn([root])
+        return arr;
     }
 }
 
@@ -122,7 +131,10 @@ let bst = new BST()
 bst.insert(3)
 bst.insert(2)
 bst.insert(6)
+bst.insert(1)
+bst.insert(8)
+bst.insert(5)
 console.log('search: ', bst.search(6))
 console.log('validate: ', bst.validate(bst.root));
 console.log('qianxu: ', bst.preTraversal(bst.root));
-console.log('范围和: ', bst.rangeSumBST(bst.root, 2, 6));
+console.log('层序遍历: ', bst.levelOrder(bst.root));
