@@ -1,24 +1,24 @@
-// 102 medium 二叉树的层序遍历
-// 跟107的代码只差最后一行
+// 107 easy 二叉树的层序遍历2
+// 跟102题只差代码最后一行
 
-// 给定一个二叉树，返回其按层次遍历的节点值。 （即逐层地，从左到右访问所有节点）。
+// 给定一个二叉树，返回其节点值自底向上的层次遍历。 （即按从叶子节点所在层到根节点所在的层，逐层从左向右遍历）
 //
-// 例如:
-//     给定二叉树: [3,9,20,null,null,15,7],
+// 例如：
+// 给定二叉树 [3,9,20,null,null,15,7],
 //
-//     3
-//     / \
+// 3
+// / \
 //   9  20
 // /  \
 //    15   7
-// 返回其层次遍历结果：
+// 返回其自底向上的层次遍历为：
 //
 // [
-//     [3],
+//     [15,7],
 //     [9,20],
-//     [15,7]
+//     [3]
 // ]
-
+//
 
 /**
  * Definition for a binary tree node.
@@ -31,7 +31,7 @@
  * @param {TreeNode} root
  * @return {number[][]}
  */
-var levelOrder = function(root) {
+var levelOrderBottom = function(root) {
     if(!root) return []
 
     let arr = []
@@ -51,5 +51,5 @@ var levelOrder = function(root) {
         if(nextLevelNodes.length){fn(nextLevelNodes)}
     }
     fn([root])
-    return arr;
+    return arr.reverse();
 };
