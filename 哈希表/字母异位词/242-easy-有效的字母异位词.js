@@ -45,4 +45,13 @@ var isAnagram = function(s, t) {
     return true
 };
 
+// 用排序的方式判断 是否是 字母异位词. 超时
+var isAnagram2 = function(s, t) {
+    if(s.length !== t.length) return false;
+
+    let ss = s.split('').sort().join('')
+    let tt = t.split('').sort().join('')
+    return ss === tt;
+};
+
 console.log(isAnagram('anagram', 'nagaram'))
