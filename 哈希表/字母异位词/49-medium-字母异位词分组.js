@@ -1,38 +1,23 @@
 // 49 medium 字母异位词分组
 // 242题是简化版
+//
+// 给定一个字符串数组，将字母异位词组合在一起。字母异位词指字母相同，但排列不同的字符串。
+//
+// 示例:
+//
+//     输入: ["eat", "tea", "tan", "ate", "nat", "bat"],
+//         输出:
+// [
+//     ["ate","eat","tea"],
+//     ["nat","tan"],
+//     ["bat"]
+// ]
+// 说明：
+//
+// 所有输入均为小写字母。
+// 不考虑答案输出的顺序。
+//
 
-
-
-/**
- * 哈希法判断 两个词是不是字母异位词
- * @param {string} a
- * @param {string} b
- * @return {boolean}
- */
-var isAnagram = function(a, b) {
-    if (a.length !== b.length) return false;
-
-    let hash = {}
-    for (let i = 0; i < a.length; i++){
-        if (!hash[a[i]]) hash[a[i]] = 1;
-        else {
-            hash[a[i]]++;
-        }
-    }
-
-    for (let j = 0; j < b.length; j++){
-        if (!hash[b[j]]) return false;
-        else {
-            if (hash[b[j]] > 1) {
-                hash[b[j]]--;
-            } else {
-                delete hash[b[j]]
-            }
-        }
-    }
-    return true;
-
-};
 
 
 /**
@@ -42,19 +27,16 @@ var isAnagram = function(a, b) {
 var groupAnagrams = function(arr) {
     if (arr.length === 1) return [arr]
 
-    let resultArr = []
-    while(arr.length > 0){
-        let group = [arr[arr.length - 1]];
-        arr.splice(arr.length - 1, 1);
-        for (let j = arr.length - 1; j >= 0; j--){
-            if (isAnagram(arr[j], group[0])){
-                group.push(arr[j]);
-                arr.splice(j, 1);
-            }
+    let hash = {}
+    for(let i = 0; i < arr.length; i++){
+        let key = arr[i].split('').sort().join('')
+        if(!hash[key]){
+            hash[key] = [arr[i]]
+        } else {
+            hash[key].push(arr[i])
         }
-        resultArr.push(group);
     }
-    return resultArr
+    return Object.values(hash)
 };
 
 console.log(groupAnagrams([""]));
