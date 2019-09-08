@@ -19,7 +19,7 @@ var reverseStr = function(s, k) {
         if (lastArr.length < k){ // 反转全部
             lastArr.reverse();
         } else { // 介于k 2k之间，只反转前K个
-            lastArr.slice(0, k + 1).reverse().concat(lastArr[k + 1])
+            lastArr = lastArr.slice(0, k + 1).reverse().concat(lastArr[k + 1])
         }
     }
 
