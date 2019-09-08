@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/二叉树/226-easy-翻转二叉树.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数组类/unSortedArr/944-easy-删列造序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/链表/206-easy-反转链表.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数组题目.md" beforeDir="false" afterPath="$PROJECT_DIR$/数组题目.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,6 +107,7 @@
       <workItem from="1565657755484" duration="479000" />
       <workItem from="1565694473022" duration="4522000" />
       <workItem from="1565785495374" duration="367000" />
+      <workItem from="1567947970343" duration="530000" />
     </task>
     <servers />
   </component>
