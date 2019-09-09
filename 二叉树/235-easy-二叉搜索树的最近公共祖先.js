@@ -59,7 +59,22 @@ var lowestCommonAncestor = function(root, p, q) {
 
 };
 
+// let a = 1;
+// let b = 2
+// [a, b] = [b, a];
+// console.log(a,b)
 
+let a = {
+    val: 1,
+    next: 2
+};
+
+let b = {
+    val: 2,
+    next: 3
+};
+[a.val, b.val] = [b.val, a.val];
+console.log(a, b)
 
 
 
