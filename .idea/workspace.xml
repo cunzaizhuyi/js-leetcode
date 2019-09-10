@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/动态规划/62-medium-不同路径.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/二叉树/235-easy-二叉搜索树的最近公共祖先.js" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树/235-easy-二叉搜索树的最近公共祖先.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串/459-easy-重复的子字符串.js" beforeDir="false" afterPath="$PROJECT_DIR$/字符串/459-easy-重复的子字符串.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,17 +49,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.62-medium-不同路径.js">
+  <component name="RunManager" selected="Node.js.459-easy-重复的子字符串.js">
     <configuration name="235-easy-二叉搜索树的最近公共祖先.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="235-easy-二叉搜索树的最近公共祖先.js" working-dir="$PROJECT_DIR$/二叉树">
       <method v="2" />
     </configuration>
     <configuration name="367-easy-有效的完全平方数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="367-easy-有效的完全平方数.js" working-dir="$PROJECT_DIR$/math">
       <method v="2" />
     </configuration>
-    <configuration name="62-medium-不同路径.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="62-medium-不同路径.js" working-dir="$PROJECT_DIR$/动态规划">
+    <configuration name="459-easy-重复的子字符串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="459-easy-重复的子字符串.js" working-dir="$PROJECT_DIR$/字符串">
       <method v="2" />
     </configuration>
-    <configuration name="67-easy-二进制求和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="67-easy-二进制求和.js" working-dir="$PROJECT_DIR$/math">
+    <configuration name="62-medium-不同路径.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="62-medium-不同路径.js" working-dir="$PROJECT_DIR$/动态规划">
       <method v="2" />
     </configuration>
     <configuration name="836-easy-矩形重叠.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="836-easy-矩形重叠.js" working-dir="$PROJECT_DIR$/math">
@@ -69,11 +67,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.459-easy-重复的子字符串.js" />
         <item itemvalue="Node.js.62-medium-不同路径.js" />
         <item itemvalue="Node.js.235-easy-二叉搜索树的最近公共祖先.js" />
         <item itemvalue="Node.js.367-easy-有效的完全平方数.js" />
         <item itemvalue="Node.js.836-easy-矩形重叠.js" />
-        <item itemvalue="Node.js.67-easy-二进制求和.js" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +104,8 @@
       <workItem from="1565694473022" duration="4522000" />
       <workItem from="1565785495374" duration="367000" />
       <workItem from="1567947970343" duration="1582000" />
-      <workItem from="1568041683015" duration="974000" />
+      <workItem from="1568041683015" duration="1131000" />
+      <workItem from="1568116926929" duration="1307000" />
     </task>
     <servers />
   </component>
@@ -125,5 +124,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/字符串/459-easy-重复的子字符串.js</url>
+          <line>17</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
