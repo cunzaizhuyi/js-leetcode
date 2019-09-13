@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/哈希表/187-medium-重复的DNA序列.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组类/unSortedArr/216-medium-组合总和3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/哈希表/706-easy-设计哈希集合.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/哈希表题目.md" beforeDir="false" afterPath="$PROJECT_DIR$/哈希表题目.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数组题目.md" beforeDir="false" afterPath="$PROJECT_DIR$/数组题目.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +110,7 @@
       <workItem from="1568158583917" duration="2401000" />
       <workItem from="1568210207040" duration="482000" />
       <workItem from="1568288547673" duration="205000" />
-      <workItem from="1568337832279" duration="1562000" />
+      <workItem from="1568337832279" duration="1941000" />
     </task>
     <servers />
   </component>
