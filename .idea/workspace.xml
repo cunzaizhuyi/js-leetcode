@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/哈希表/706-easy-设计哈希集合.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/哈希表/560-medium-和为K的子数组.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/哈希表/并查集/547-medium-朋友圈.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/哈希表题目.md" beforeDir="false" afterPath="$PROJECT_DIR$/哈希表题目.md" afterDir="false" />
     </list>
@@ -30,6 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -50,14 +52,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.78-medium-子集.js">
+  <component name="RunManager" selected="Node.js.547-medium-朋友圈.js">
     <configuration name="443-easy-压缩字符串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="443-easy-压缩字符串.js" working-dir="$PROJECT_DIR$/字符串">
       <method v="2" />
     </configuration>
-    <configuration name="459-easy-重复的子字符串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="459-easy-重复的子字符串.js" working-dir="$PROJECT_DIR$/字符串">
+    <configuration name="547-medium-朋友圈.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="547-medium-朋友圈.js" working-dir="$PROJECT_DIR$/哈希表/并查集">
       <method v="2" />
     </configuration>
-    <configuration name="62-medium-不同路径.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="62-medium-不同路径.js" working-dir="$PROJECT_DIR$/动态规划">
+    <configuration name="560-medium-和为K的子数组.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="560-medium-和为K的子数组.js" working-dir="$PROJECT_DIR$/哈希表">
       <method v="2" />
     </configuration>
     <configuration name="686-easy-重复叠加字符串匹配.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="686-easy-重复叠加字符串匹配.js" working-dir="$PROJECT_DIR$/字符串">
@@ -68,11 +70,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.547-medium-朋友圈.js" />
+        <item itemvalue="Node.js.560-medium-和为K的子数组.js" />
         <item itemvalue="Node.js.78-medium-子集.js" />
         <item itemvalue="Node.js.443-easy-压缩字符串.js" />
         <item itemvalue="Node.js.686-easy-重复叠加字符串匹配.js" />
-        <item itemvalue="Node.js.459-easy-重复的子字符串.js" />
-        <item itemvalue="Node.js.62-medium-不同路径.js" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +112,8 @@
       <workItem from="1568158583917" duration="2401000" />
       <workItem from="1568210207040" duration="482000" />
       <workItem from="1568288547673" duration="205000" />
-      <workItem from="1568337832279" duration="1941000" />
+      <workItem from="1568337832279" duration="5594000" />
+      <workItem from="1568425318850" duration="2089000" />
     </task>
     <servers />
   </component>
@@ -129,13 +132,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="NodeJSConfigurationType">
-        <watch expression="s.slice(0, yueshu)" language="JavaScript" />
-        <watch expression="s.slice(yueshu * (index - 1), yueshu * index - 1)" language="JavaScript" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
