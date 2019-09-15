@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/链表/19-medium-删除链表的倒数第N个节点.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/链表/81-easy-删除排序链表中的重复元素.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/周六/1046-easy-最后一块石头的重量.js" beforeDir="false" afterPath="$PROJECT_DIR$/递归/1046-easy-最后一块石头的重量.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/周六/1108-easy-IP地址无效化.js" beforeDir="false" afterPath="$PROJECT_DIR$/字符串/1108-easy-IP地址无效化.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/周六/1137-easy-第 N 个泰波那契数.js" beforeDir="false" afterPath="$PROJECT_DIR$/递归/1137-easy-第 N 个泰波那契数.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/周六/237-easy-删除链表中的节点.js" beforeDir="false" afterPath="$PROJECT_DIR$/链表/237-easy-删除链表中的节点.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/周六/412-easy-Fizz Buzz.js" beforeDir="false" afterPath="$PROJECT_DIR$/数学类/412-easy-Fizz Buzz.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/周六/70-easy-爬楼梯.js" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/70-easy-爬楼梯.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/周六/821-easy-字符的最短距离.js" beforeDir="false" afterPath="$PROJECT_DIR$/数组类/unSortedArr/821-easy-字符的最短距离.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/周六/896-easy-单调数列.js" beforeDir="false" afterPath="$PROJECT_DIR$/数组类/unSortedArr/896-easy-单调数列.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/字符串题目.md" beforeDir="false" afterPath="$PROJECT_DIR$/字符串题目.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数组题目.md" beforeDir="false" afterPath="$PROJECT_DIR$/数组题目.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表/237-easy-删除链表中的节点.js" beforeDir="false" afterPath="$PROJECT_DIR$/链表/237-easy-删除链表中的节点.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +117,7 @@
       <workItem from="1568210207040" duration="482000" />
       <workItem from="1568288547673" duration="205000" />
       <workItem from="1568337832279" duration="5594000" />
-      <workItem from="1568425318850" duration="13716000" />
+      <workItem from="1568425318850" duration="16712000" />
     </task>
     <servers />
   </component>
