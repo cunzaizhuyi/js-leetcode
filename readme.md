@@ -61,6 +61,9 @@ LeetCode刷题仓库
 * 704 easy 二分查找
 * 744 easy 寻找比目标字母大的最小字母
 
+## 树
+208 medium 实现Trie
+
 ## 二叉树
 * 94 medium 二叉树的中序遍历
 * 102 medium 二叉树的层序遍历
