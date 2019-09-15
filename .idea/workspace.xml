@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Node.js.208-medium-实现Trie.js">
-    <configuration name="208-medium-实现Trie.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="208-medium-实现Trie.js" working-dir="$PROJECT_DIR$/树">
+    <configuration name="208-medium-实现Trie.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/树/trie/208-medium-实现Trie.js" working-dir="$PROJECT_DIR$/树">
       <method v="2" />
     </configuration>
     <configuration name="547-medium-朋友圈.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="547-medium-朋友圈.js" working-dir="$PROJECT_DIR$/哈希表/并查集">
