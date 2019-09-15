@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/哈希表/并查集/684-medium-冗余连接.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/哈希表题目.md" beforeDir="false" afterPath="$PROJECT_DIR$/哈希表题目.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/哈希表/692-medium-前K个高频单词.js" beforeDir="false" afterPath="$PROJECT_DIR$/哈希表/692-medium-前K个高频单词.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串/6-z.js" beforeDir="false" afterPath="$PROJECT_DIR$/字符串/6-z.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,29 +51,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.684-medium-冗余连接.js">
-    <configuration name="443-easy-压缩字符串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="443-easy-压缩字符串.js" working-dir="$PROJECT_DIR$/字符串">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.6-medium-z形变换.js">
     <configuration name="547-medium-朋友圈.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="547-medium-朋友圈.js" working-dir="$PROJECT_DIR$/哈希表/并查集">
       <method v="2" />
     </configuration>
     <configuration name="560-medium-和为K的子数组.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="560-medium-和为K的子数组.js" working-dir="$PROJECT_DIR$/哈希表">
       <method v="2" />
     </configuration>
+    <configuration name="6-medium-z形变换.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/字符串/6-medium-z形变换.js" working-dir="$PROJECT_DIR$/字符串">
+      <method v="2" />
+    </configuration>
     <configuration name="684-medium-冗余连接.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="684-medium-冗余连接.js" working-dir="$PROJECT_DIR$/哈希表/并查集">
       <method v="2" />
     </configuration>
-    <configuration name="78-medium-子集.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="78-medium-子集.js" working-dir="$PROJECT_DIR$/数组类/unSortedArr">
+    <configuration name="692-medium-前K个高频单词.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="692-medium-前K个高频单词.js" working-dir="$PROJECT_DIR$/哈希表">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.6-medium-z形变换.js" />
+        <item itemvalue="Node.js.692-medium-前K个高频单词.js" />
         <item itemvalue="Node.js.684-medium-冗余连接.js" />
         <item itemvalue="Node.js.547-medium-朋友圈.js" />
         <item itemvalue="Node.js.560-medium-和为K的子数组.js" />
-        <item itemvalue="Node.js.78-medium-子集.js" />
-        <item itemvalue="Node.js.443-easy-压缩字符串.js" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +112,7 @@
       <workItem from="1568210207040" duration="482000" />
       <workItem from="1568288547673" duration="205000" />
       <workItem from="1568337832279" duration="5594000" />
-      <workItem from="1568425318850" duration="2383000" />
+      <workItem from="1568425318850" duration="5202000" />
     </task>
     <servers />
   </component>

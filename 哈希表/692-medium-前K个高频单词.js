@@ -8,10 +8,7 @@
 var topKFrequent = function(words, k) {
     let hash = {}
     for(let i = 0; i < words.length; i++){
-        if(!hash[words[i]])hash[words[i]] = 1
-        else{
-            hash[words[i]]++
-        }
+        hash[words[i]] = ~~(hash[words[i]]) + 1
     }
     
     let kv = Object.entries(hash)
@@ -33,5 +30,6 @@ var topKFrequent = function(words, k) {
     }
     return arr;
 };
+
 
 console.log(topKFrequent(["i", "love", "leetcode", "i", "love", "coding"], 2))
