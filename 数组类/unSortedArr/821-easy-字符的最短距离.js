@@ -13,11 +13,13 @@
 
 
 /**
+ * 暴力法
  * @param {string} S
  * @param {character} C
  * @return {number[]}
  */
 var shortestToChar = function(S, C) {
+    // 记录每一个 C字符在S串中出现的位置index
     let posArr = []
     for(let i = 0; i < S.length; i++){
         if (S[i] === C){
@@ -27,13 +29,14 @@ var shortestToChar = function(S, C) {
 
     let result = []
     for(let i = 0; i < S.length; i++){
-        let abs = S.length;
+        let min = S.length; // 以最大可能数字 设定最小值
         for(let j = 0; j < posArr.length; j++){
-            if(Math.abs(posArr[j] - i) < abs){
-                abs = Math.abs(posArr[j] - i)
+            // 更新最小值
+            if(Math.min(posArr[j] - i) < min){
+                min = Math.min(posArr[j] - i)
             }
         }
-        result.push(abs)
+        result.push(min)
     }
     return result
 };
