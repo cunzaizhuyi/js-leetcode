@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/字符串/165-medium-版本号.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/5-medium-最长回文串.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/number/divide.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/number/pow.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/字符串题目.md" beforeDir="false" afterPath="$PROJECT_DIR$/字符串题目.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.165-medium-版本号.js">
+  <component name="RunManager" selected="Node.js.5-medium-最长回文串.js">
     <configuration name="151-medium-翻转字符串里的单词.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="151-medium-翻转字符串里的单词.js" working-dir="$PROJECT_DIR$/字符串">
       <method v="2" />
     </configuration>
@@ -65,7 +63,7 @@
     <configuration name="208-medium-实现Trie.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/树/trie/208-medium-实现Trie.js" working-dir="$PROJECT_DIR$/树">
       <method v="2" />
     </configuration>
-    <configuration name="6-medium-z形变换.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/字符串/6-medium-z形变换.js" working-dir="$PROJECT_DIR$/字符串">
+    <configuration name="5-medium-最长回文串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="5-medium-最长回文串.js" working-dir="$PROJECT_DIR$/字符串">
       <method v="2" />
     </configuration>
     <configuration name="929-easy-独特的电子邮件地址.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="929-easy-独特的电子邮件地址.js" working-dir="$PROJECT_DIR$/字符串">
@@ -73,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.5-medium-最长回文串.js" />
         <item itemvalue="Node.js.165-medium-版本号.js" />
         <item itemvalue="Node.js.151-medium-翻转字符串里的单词.js" />
         <item itemvalue="Node.js.929-easy-独特的电子邮件地址.js" />
         <item itemvalue="Node.js.208-medium-实现Trie.js" />
-        <item itemvalue="Node.js.6-medium-z形变换.js" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +114,7 @@
       <workItem from="1568210207040" duration="482000" />
       <workItem from="1568288547673" duration="205000" />
       <workItem from="1568337832279" duration="5594000" />
-      <workItem from="1568425318850" duration="10539000" />
+      <workItem from="1568425318850" duration="12341000" />
     </task>
     <servers />
   </component>
