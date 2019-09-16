@@ -35,7 +35,7 @@ var rotateRight = function(head, k) {
     if(!head) return head;
 
     //计算节点数
-    let n = 0;
+    let n = 1;
     let curNode = head;
     while(curNode.next){
         n++;
