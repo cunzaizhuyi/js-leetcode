@@ -97,7 +97,7 @@ LeetCode刷题仓库
 * 137 medium 只出现一次的元素2
 * 191 easy 位1的个数
 * 260 medium只出现一次的数字3
-* 338 medium 比特位计数
+* -338 medium 比特位计数
 * 461 easy 汉明距离
 * 476 easy 数字的补数
 * 693 easy 交替位二进制数
@@ -106,6 +106,7 @@ LeetCode刷题仓库
 
 ## 链表
 * 19 medium 删除链表的倒数第N个节点
+* 61 medium 旋转链表
 * 82 medium 删除排序链表中的重复元素2
 * 83 easy 删除排序链表中的重复元素
 * 206 easy 反转链表
