@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/哈希表/677-medium-键值映射.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/哈希表题目.md" beforeDir="false" afterPath="$PROJECT_DIR$/哈希表题目.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/二叉树/872-easy-叶子相似的树.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +31,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -116,7 +118,7 @@
       <workItem from="1568337832279" duration="5594000" />
       <workItem from="1568425318850" duration="17022000" />
       <workItem from="1568640856354" duration="5064000" />
-      <workItem from="1568722063414" duration="2682000" />
+      <workItem from="1568722063414" duration="3703000" />
     </task>
     <servers />
   </component>
