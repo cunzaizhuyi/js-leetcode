@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/链表/1019-medium-链表中的下一个更大节点.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/哈希表/1189-easy-气球的最大数量.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/二叉树/617-easy-合并二叉树.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/哈希表题目.md" beforeDir="false" afterPath="$PROJECT_DIR$/哈希表题目.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +57,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.852-easy-山脉数组的峰顶索引.js">
-    <configuration name="151-medium-翻转字符串里的单词.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="151-medium-翻转字符串里的单词.js" working-dir="$PROJECT_DIR$/字符串">
+  <component name="RunManager" selected="Node.js.1189-easy-气球的最大数量.js">
+    <configuration name="1189-easy-气球的最大数量.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="1189-easy-气球的最大数量.js" working-dir="$PROJECT_DIR$/哈希表">
       <method v="2" />
     </configuration>
     <configuration name="165-medium-版本号.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="165-medium-版本号.js" working-dir="$PROJECT_DIR$/字符串">
@@ -73,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.1189-easy-气球的最大数量.js" />
         <item itemvalue="Node.js.852-easy-山脉数组的峰顶索引.js" />
         <item itemvalue="Node.js.17-medium-电话号码的字母组合.js" />
         <item itemvalue="Node.js.5-medium-最长回文串.js" />
         <item itemvalue="Node.js.165-medium-版本号.js" />
-        <item itemvalue="Node.js.151-medium-翻转字符串里的单词.js" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +121,7 @@
       <workItem from="1568425318850" duration="17022000" />
       <workItem from="1568640856354" duration="5064000" />
       <workItem from="1568722063414" duration="7104000" />
-      <workItem from="1568813889123" duration="1957000" />
+      <workItem from="1568813889123" duration="3602000" />
     </task>
     <servers />
   </component>
