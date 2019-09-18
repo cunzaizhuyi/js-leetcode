@@ -112,6 +112,7 @@ LeetCode刷题仓库
 * 61 medium 旋转链表
 * 82 medium 删除排序链表中的重复元素2
 * 83 easy 删除排序链表中的重复元素
+* 141 easy 环形链表
 * 142 medium 环形链表2
 * 160 easy 相交链表
 * 203 easy 移除链表元素
