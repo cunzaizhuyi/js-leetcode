@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/链表/141-easy-环形链表.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/链表/1019-medium-链表中的下一个更大节点.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
@@ -119,7 +119,7 @@
       <workItem from="1568425318850" duration="17022000" />
       <workItem from="1568640856354" duration="5064000" />
       <workItem from="1568722063414" duration="7104000" />
-      <workItem from="1568813889123" duration="471000" />
+      <workItem from="1568813889123" duration="1957000" />
     </task>
     <servers />
   </component>
