@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/树/二叉树/1161-medium-最大层内元素和.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/二叉树/199-medium-二叉树的右视图.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,7 +119,7 @@
       <workItem from="1568425318850" duration="17022000" />
       <workItem from="1568640856354" duration="5064000" />
       <workItem from="1568722063414" duration="7104000" />
-      <workItem from="1568813889123" duration="4259000" />
+      <workItem from="1568813889123" duration="5036000" />
     </task>
     <servers />
   </component>
