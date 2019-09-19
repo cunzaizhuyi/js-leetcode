@@ -50,6 +50,7 @@ LeetCode刷题仓库
 ## 栈
 * 20 easy 有效的括号
 * 155 easy 最小栈
+* 225 easy 用队列实现栈
 * 394 medium 字符串解码
 * 496 easy 下一个更大元素1
 * 503 medium 下一个更大元素2
