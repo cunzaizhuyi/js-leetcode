@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/栈/225-easy-用队列实现栈.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数学类/1185-easy-一周中的第几天.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +55,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.455-easy-分发饼干.js">
+  <component name="RunManager" selected="Node.js.1185-easy-一周中的第几天.js">
+    <configuration name="1185-easy-一周中的第几天.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="1185-easy-一周中的第几天.js" working-dir="$PROJECT_DIR$/数学类">
+      <method v="2" />
+    </configuration>
     <configuration name="1189-easy-气球的最大数量.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="1189-easy-气球的最大数量.js" working-dir="$PROJECT_DIR$/哈希表">
       <method v="2" />
     </configuration>
@@ -64,19 +68,16 @@
     <configuration name="455-easy-分发饼干.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="455-easy-分发饼干.js" working-dir="$PROJECT_DIR$/贪心">
       <method v="2" />
     </configuration>
-    <configuration name="5-medium-最长回文串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="5-medium-最长回文串.js" working-dir="$PROJECT_DIR$/字符串">
-      <method v="2" />
-    </configuration>
     <configuration name="852-easy-山脉数组的峰顶索引.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="852-easy-山脉数组的峰顶索引.js" working-dir="$PROJECT_DIR$/数组类/unSortedArr">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.1185-easy-一周中的第几天.js" />
         <item itemvalue="Node.js.455-easy-分发饼干.js" />
         <item itemvalue="Node.js.1189-easy-气球的最大数量.js" />
         <item itemvalue="Node.js.852-easy-山脉数组的峰顶索引.js" />
         <item itemvalue="Node.js.17-medium-电话号码的字母组合.js" />
-        <item itemvalue="Node.js.5-medium-最长回文串.js" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +120,7 @@
       <workItem from="1568640856354" duration="5064000" />
       <workItem from="1568722063414" duration="7104000" />
       <workItem from="1568813889123" duration="5312000" />
-      <workItem from="1568900860501" duration="888000" />
+      <workItem from="1568900860501" duration="1391000" />
     </task>
     <servers />
   </component>
