@@ -19,6 +19,24 @@
  * @param {number[]} nums
  * @return {number[][]}
  */
-var permute = function(nums) {
-
-};
+let fn = (nums) => {
+    let ans = [];
+    let hash = [];
+    let path = [];
+    let dfs = (idx, nums) => {
+        if(idx === nums.length) {
+            ans.push([...path]);
+            return;
+        }
+        for (let i = 0; i < nums.length; i++){
+            if(hash[i]) continue;
+            path.push(nums[i]);
+            hash[i] = true; // 表示是否往res放过的哈希
+            dfs(idx + 1, nums);
+            hash[i] = false;
+            path.pop();
+        }
+    }
+    dfs( 0, nums);
+    return ans;
+}
