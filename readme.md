@@ -34,6 +34,7 @@ LeetCode刷题仓库
 * 223 medium 矩形面积
 * 231 easy 2的幂
 * 258 easy 各位相加
+* 263 easy 丑数
 * 279 medium 完全平方数
 * 326 easy 3的幂
 * 367 easy 有效的完全平方数
