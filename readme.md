@@ -43,6 +43,7 @@ LeetCode刷题仓库
 * 412 easy Fizz Buzz
 * 453 easy 最小移动次数使数组元素相等
 * 506 easy 完美数
+* 633 easy 平方数之和
 * 717 easy 1比特与2比特字符
 * 728 easy 自除数
 * 836 easy 矩形重叠
