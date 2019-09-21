@@ -14,7 +14,7 @@ var reverseStr = function(s, k) {
     // 用 % 切分成两部分。
     let lastCount = arr.length % (2 * k)
     let lastArr = []
-    if (lastCount){
+    if (lastCount){  
         lastArr = arr.slice(arr.length - lastCount)
         if (lastArr.length < k){ // 反转全部
             lastArr.reverse();
