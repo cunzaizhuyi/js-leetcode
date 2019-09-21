@@ -40,6 +40,7 @@ LeetCode刷题仓库
 * 367 easy 有效的完全平方数
 * 412 easy Fizz Buzz
 * 453 easy 最小移动次数使数组元素相等
+* 717 easy 1比特与2比特字符
 * 728 easy 自除数
 * 836 easy 矩形重叠
 * 976 easy 三角形的最大周长
