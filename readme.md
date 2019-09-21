@@ -31,6 +31,7 @@ LeetCode刷题仓库
 * 69 easy x的平方根
 * 168 easy excel列名称
 * 171 easy Excel表列序号
+* 172 easy 阶乘后的零
 * 202 easy 快乐数
 * 223 medium 矩形面积
 * 231 easy 2的幂
