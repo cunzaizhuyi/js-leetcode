@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/数学类/717-easy-1比特与2比特字符.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/二叉树/671-easy-二叉树中第二小的节点.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
@@ -121,7 +121,7 @@
       <workItem from="1568722063414" duration="7104000" />
       <workItem from="1568813889123" duration="5312000" />
       <workItem from="1568900860501" duration="2776000" />
-      <workItem from="1568979480131" duration="10729000" />
+      <workItem from="1568979480131" duration="12380000" />
     </task>
     <servers />
   </component>
