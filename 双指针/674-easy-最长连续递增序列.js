@@ -42,3 +42,4 @@ var findLengthOfLCIS = function(nums) {
 
 console.log(findLengthOfLCIS([1,3,5,4,7]))
 console.log(findLengthOfLCIS([2,2,2,2,2]))
+console.log(findLengthOfLCIS([1,2,1,2,5]))

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/双指针/674-easy-最长连续递增序列.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数学类/1018-easy-可被 5 整除的二进制前缀.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/双指针/674-easy-最长连续递增序列.js" beforeDir="false" afterPath="$PROJECT_DIR$/双指针/674-easy-最长连续递增序列.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,14 +56,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.674-easy-最长连续递增序列.js">
+  <component name="RunManager" selected="Node.js.1018-easy-可被 5 整除的二进制前缀.js">
+    <configuration name="1018-easy-可被 5 整除的二进制前缀.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="1018-easy-可被 5 整除的二进制前缀.js" working-dir="$PROJECT_DIR$/数学类">
+      <method v="2" />
+    </configuration>
     <configuration name="263-easy-丑数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="263-easy-丑数.js" working-dir="$PROJECT_DIR$/数学类">
       <method v="2" />
     </configuration>
     <configuration name="503-medium-下一个更大元素2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="503-medium-下一个更大元素2.js" working-dir="$PROJECT_DIR$/数组类/unSortedArr">
-      <method v="2" />
-    </configuration>
-    <configuration name="506-easy-相对名次.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="506-easy-相对名次.js" working-dir="$PROJECT_DIR$/哈希表">
       <method v="2" />
     </configuration>
     <configuration name="674-easy-最长连续递增序列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="674-easy-最长连续递增序列.js" working-dir="$PROJECT_DIR$/双指针">
@@ -73,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.1018-easy-可被 5 整除的二进制前缀.js" />
         <item itemvalue="Node.js.674-easy-最长连续递增序列.js" />
         <item itemvalue="Node.js.503-medium-下一个更大元素2.js" />
         <item itemvalue="Node.js.796-easy-旋转字符串.js" />
         <item itemvalue="Node.js.263-easy-丑数.js" />
-        <item itemvalue="Node.js.506-easy-相对名次.js" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +122,7 @@
       <workItem from="1568722063414" duration="7104000" />
       <workItem from="1568813889123" duration="5312000" />
       <workItem from="1568900860501" duration="2776000" />
-      <workItem from="1568979480131" duration="13131000" />
+      <workItem from="1568979480131" duration="16267000" />
     </task>
     <servers />
   </component>
