@@ -7,14 +7,14 @@
  * @return {string}
  */
 var reverseStr = function(s, k) {
-    if (k === 1) return s;
+    if (k === 1 || !k) return s;
     
     let arr = s.split('')
     let resultArr = []
     // 用 % 切分成两部分。
     let lastCount = arr.length % (2 * k)
     let lastArr = []
-    if (lastCount){  
+    if (lastCount){
         lastArr = arr.slice(arr.length - lastCount)
         if (lastArr.length < k){ // 反转全部
             lastArr.reverse();
