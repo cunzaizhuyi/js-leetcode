@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/哈希表/811-easy-子域名访问计数.js" beforeDir="false" afterPath="$PROJECT_DIR$/哈希表/811-easy-子域名访问计数.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +34,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/哈希表" />
       <recent name="$PROJECT_DIR$/树/二叉树" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -125,7 +125,7 @@
       <workItem from="1568813889123" duration="5312000" />
       <workItem from="1568900860501" duration="2776000" />
       <workItem from="1568979480131" duration="30492000" />
-      <workItem from="1569113446941" duration="10147000" />
+      <workItem from="1569113446941" duration="10431000" />
     </task>
     <servers />
   </component>

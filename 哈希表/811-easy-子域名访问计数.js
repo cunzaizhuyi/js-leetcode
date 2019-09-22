@@ -40,6 +40,7 @@ var subdomainVisits = function(cpdomains) {
     
     let hash = {}
     for(let i = 0; i < cpdomains.length; i++){
+        // 拆分出一个域名的可分的子域名数量
         let arr = cpdomains[i].split(' ')[1].split('.');
         let domains = [arr[arr.length - 1]]
         let index = arr.length - 2;
@@ -49,6 +50,8 @@ var subdomainVisits = function(cpdomains) {
             domains.push(domain)
             index--;
         }
+
+        // 计数
         for(let j = 0; j < domains.length; j++){
             if(hash[domains[j]]){
                 hash[domains[j]] += Number(cpdomains[i].split(' ')[0])
@@ -57,6 +60,8 @@ var subdomainVisits = function(cpdomains) {
             }
         }
     }
+
+    // 输出结果，符合要求的格式
     let ans = []
     for(let key in hash){
         ans.push(hash[key] + ' ' + key)
