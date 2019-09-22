@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/数组类/约瑟夫环问题/950-medium-按递增顺序显示卡牌.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +120,8 @@
       <workItem from="1568722063414" duration="7104000" />
       <workItem from="1568813889123" duration="5312000" />
       <workItem from="1568900860501" duration="2776000" />
-      <workItem from="1568979480131" duration="30229000" />
+      <workItem from="1568979480131" duration="30492000" />
+      <workItem from="1569113446941" duration="1430000" />
     </task>
     <servers />
   </component>
