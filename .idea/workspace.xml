@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/数学类/1025-easy-除数博弈.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数学类题目.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树题目.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +33,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/数组类/unSortedArr" />
       <recent name="$PROJECT_DIR$/字符串" />
@@ -124,7 +123,7 @@
       <workItem from="1568813889123" duration="5312000" />
       <workItem from="1568900860501" duration="2776000" />
       <workItem from="1568979480131" duration="30492000" />
-      <workItem from="1569113446941" duration="4945000" />
+      <workItem from="1569113446941" duration="5239000" />
     </task>
     <servers />
   </component>
