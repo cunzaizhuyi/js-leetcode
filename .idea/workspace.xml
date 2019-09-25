@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/贪心/376-medium-摇摆序列.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/数组类/多维数组" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/贪心" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -62,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.376-medium-摇摆序列.js">
+  <component name="RunManager" selected="Node.js.test.js">
     <configuration name="1018-easy-可被 5 整除的二进制前缀.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="1018-easy-可被 5 整除的二进制前缀.js" working-dir="$PROJECT_DIR$/数学类">
       <method v="2" />
     </configuration>
@@ -80,8 +79,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.376-medium-摇摆序列.js" />
         <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Node.js.376-medium-摇摆序列.js" />
         <item itemvalue="Node.js.797-medium-所有可能的路径.js" />
         <item itemvalue="Node.js.1018-easy-可被 5 整除的二进制前缀.js" />
         <item itemvalue="Node.js.674-easy-最长连续递增序列.js" />
@@ -132,7 +131,8 @@
       <workItem from="1569113446941" duration="10509000" />
       <workItem from="1569246694527" duration="4357000" />
       <workItem from="1569333875807" duration="4810000" />
-      <workItem from="1569371315977" duration="1653000" />
+      <workItem from="1569371315977" duration="1799000" />
+      <workItem from="1569419256210" duration="1097000" />
     </task>
     <servers />
   </component>

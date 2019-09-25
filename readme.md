@@ -83,6 +83,7 @@ LeetCode刷题仓库
 * 1019 medium 链表中的下一个更大节点
 
 ## 贪心
+* 55 medium 跳跃游戏
 * 376 medium 摇摆序列
 * 455 easy 分发饼干
 
