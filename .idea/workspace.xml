@@ -28,18 +28,18 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/数组类/unSortedArr" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/数学类" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/数组类/unSortedArr" />
       <recent name="$PROJECT_DIR$/数组类/多维数组" />
       <recent name="$PROJECT_DIR$/数学类" />
       <recent name="$PROJECT_DIR$/贪心" />
       <recent name="$PROJECT_DIR$/数组类/前缀和" />
-      <recent name="$PROJECT_DIR$/树/二叉树" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/数组类/unSortedArr" />
@@ -133,7 +133,7 @@
       <workItem from="1569333875807" duration="4810000" />
       <workItem from="1569371315977" duration="1799000" />
       <workItem from="1569419256210" duration="3128000" />
-      <workItem from="1569498106857" duration="4225000" />
+      <workItem from="1569498106857" duration="4972000" />
     </task>
     <servers />
   </component>
