@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/数组类/多维数组/502-medium-01矩阵.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数组题目.md" beforeDir="false" afterPath="$PROJECT_DIR$/数组题目.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,25 +29,25 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/数组类/unSortedArr" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/数组类/多维数组" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/数学类" />
-      <recent name="$PROJECT_DIR$/数组类/unSortedArr" />
-      <recent name="$PROJECT_DIR$/数组类/多维数组" />
-      <recent name="$PROJECT_DIR$/贪心" />
-      <recent name="$PROJECT_DIR$/数组类/前缀和" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/数组类/unSortedArr" />
       <recent name="$PROJECT_DIR$/字符串" />
       <recent name="$PROJECT_DIR$/递归" />
       <recent name="$PROJECT_DIR$/数学类" />
       <recent name="$PROJECT_DIR$/动态规划" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/数组类/多维数组" />
+      <recent name="$PROJECT_DIR$/数组类/unSortedArr" />
+      <recent name="$PROJECT_DIR$/数学类" />
+      <recent name="$PROJECT_DIR$/贪心" />
+      <recent name="$PROJECT_DIR$/数组类/前缀和" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -61,14 +62,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.test.js">
+  <component name="RunManager" selected="Node.js.502-medium-01矩阵.js">
     <configuration name="1018-easy-可被 5 整除的二进制前缀.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="1018-easy-可被 5 整除的二进制前缀.js" working-dir="$PROJECT_DIR$/数学类">
       <method v="2" />
     </configuration>
     <configuration name="376-medium-摇摆序列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="376-medium-摇摆序列.js" working-dir="$PROJECT_DIR$/贪心">
       <method v="2" />
     </configuration>
-    <configuration name="674-easy-最长连续递增序列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="674-easy-最长连续递增序列.js" working-dir="$PROJECT_DIR$/双指针">
+    <configuration name="502-medium-01矩阵.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="502-medium-01矩阵.js" working-dir="$PROJECT_DIR$/数组类/多维数组">
       <method v="2" />
     </configuration>
     <configuration name="797-medium-所有可能的路径.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="797-medium-所有可能的路径.js" working-dir="$PROJECT_DIR$/深度优先搜索DFS">
@@ -79,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.502-medium-01矩阵.js" />
         <item itemvalue="Node.js.test.js" />
         <item itemvalue="Node.js.376-medium-摇摆序列.js" />
         <item itemvalue="Node.js.797-medium-所有可能的路径.js" />
         <item itemvalue="Node.js.1018-easy-可被 5 整除的二进制前缀.js" />
-        <item itemvalue="Node.js.674-easy-最长连续递增序列.js" />
       </list>
     </recent_temporary>
   </component>
@@ -135,6 +136,8 @@
       <workItem from="1569419256210" duration="3128000" />
       <workItem from="1569498106857" duration="6286000" />
       <workItem from="1569511357283" duration="199000" />
+      <workItem from="1569513322914" duration="1382000" />
+      <workItem from="1569594258590" duration="831000" />
     </task>
     <servers />
   </component>
