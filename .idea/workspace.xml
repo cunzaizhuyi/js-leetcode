@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/数组类/sortedArr/154-hard-.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数组类/unSortedArr/56-medium-合并区间.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数组题目.md" beforeDir="false" afterPath="$PROJECT_DIR$/数组题目.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.test.js">
+  <component name="RunManager" selected="Node.js.56-medium-合并区间.js">
     <configuration name="1014-medium-最佳观光组合.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="1014-medium-最佳观光组合.js" working-dir="$PROJECT_DIR$/数组类/unSortedArr">
       <method v="2" />
     </configuration>
@@ -70,7 +72,7 @@
     <configuration name="322-medium-零钱兑换.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="322-medium-零钱兑换.js" working-dir="$PROJECT_DIR$/动态规划">
       <method v="2" />
     </configuration>
-    <configuration name="377-medium-组合总和4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="377-medium-组合总和4.js" working-dir="$PROJECT_DIR$/深度优先搜索DFS">
+    <configuration name="56-medium-合并区间.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="56-medium-合并区间.js" working-dir="$PROJECT_DIR$/数组类/unSortedArr">
       <method v="2" />
     </configuration>
     <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$">
@@ -78,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.56-medium-合并区间.js" />
         <item itemvalue="Node.js.test.js" />
         <item itemvalue="Node.js.228-medium-汇总区间.js" />
         <item itemvalue="Node.js.322-medium-零钱兑换.js" />
         <item itemvalue="Node.js.1014-medium-最佳观光组合.js" />
-        <item itemvalue="Node.js.377-medium-组合总和4.js" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +143,7 @@
       <workItem from="1569655816921" duration="75000" />
       <workItem from="1569660058589" duration="116000" />
       <workItem from="1569662418172" duration="125000" />
-      <workItem from="1569663397301" duration="5040000" />
+      <workItem from="1569663397301" duration="5741000" />
     </task>
     <servers />
   </component>
