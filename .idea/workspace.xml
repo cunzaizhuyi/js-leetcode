@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数组类/sortedArr/154-hard-.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,11 +34,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/哈希表" />
       <recent name="$PROJECT_DIR$/数组类/sortedArr" />
       <recent name="$PROJECT_DIR$/数组类/多维数组" />
       <recent name="$PROJECT_DIR$/数组类/unSortedArr" />
       <recent name="$PROJECT_DIR$/数学类" />
-      <recent name="$PROJECT_DIR$/贪心" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/数组类/unSortedArr" />
@@ -142,7 +141,7 @@
       <workItem from="1569655816921" duration="75000" />
       <workItem from="1569660058589" duration="116000" />
       <workItem from="1569662418172" duration="125000" />
-      <workItem from="1569663397301" duration="4870000" />
+      <workItem from="1569663397301" duration="5040000" />
     </task>
     <servers />
   </component>
