@@ -94,6 +94,7 @@ LeetCode刷题仓库
 
 ## 深度优先搜索
 * 17 medium 电话号码的字母组合
+* 40 medium 组合总和2
 * 46 medium 全排列
 * 77 medium 组合
 * 216 medium 组合总和3
