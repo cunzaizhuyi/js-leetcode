@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/深度优先搜索DFS/40-medium-组合总和2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/深度优先搜索DFS/39-medium-组合总和.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
@@ -62,14 +62,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.40-medium-组合总和2.js">
+  <component name="RunManager" selected="Node.js.39-medium-组合总和.js">
     <configuration name="216-medium-组合总和3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="216-medium-组合总和3.js" working-dir="$PROJECT_DIR$/深度优先搜索DFS">
       <method v="2" />
     </configuration>
-    <configuration name="40-medium-组合总和2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="40-medium-组合总和2.js" working-dir="$PROJECT_DIR$/深度优先搜索DFS">
+    <configuration name="39-medium-组合总和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="39-medium-组合总和.js" working-dir="$PROJECT_DIR$/深度优先搜索DFS">
       <method v="2" />
     </configuration>
-    <configuration name="502-medium-01矩阵.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="502-medium-01矩阵.js" working-dir="$PROJECT_DIR$/数组类/多维数组">
+    <configuration name="40-medium-组合总和2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="40-medium-组合总和2.js" working-dir="$PROJECT_DIR$/深度优先搜索DFS">
       <method v="2" />
     </configuration>
     <configuration name="77-medium-组合.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="77-medium-组合.js" working-dir="$PROJECT_DIR$/深度优先搜索DFS">
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.39-medium-组合总和.js" />
         <item itemvalue="Node.js.40-medium-组合总和2.js" />
         <item itemvalue="Node.js.216-medium-组合总和3.js" />
         <item itemvalue="Node.js.77-medium-组合.js" />
         <item itemvalue="Node.js.861-medium-翻转矩阵后的得分.js" />
-        <item itemvalue="Node.js.502-medium-01矩阵.js" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +137,7 @@
       <workItem from="1569498106857" duration="6286000" />
       <workItem from="1569511357283" duration="199000" />
       <workItem from="1569513322914" duration="1382000" />
-      <workItem from="1569594258590" duration="10446000" />
+      <workItem from="1569594258590" duration="11803000" />
     </task>
     <servers />
   </component>
