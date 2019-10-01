@@ -91,6 +91,7 @@ LeetCode刷题仓库
 
 ## 动态规划
 * 62 medium 不同路径
+* 64 medium 最小路径和
 * 70 easy 爬楼梯
 * 322 medium 零钱兑换
 * 746 easy 使用最小花费爬楼梯
@@ -108,3 +109,6 @@ LeetCode刷题仓库
 * 232 easy 用栈实现队列
 * 414 easy 第三大的数
 * 933 easy 最近的请求次数
+
+## 排序
+406 medium 根据身高重建队列
