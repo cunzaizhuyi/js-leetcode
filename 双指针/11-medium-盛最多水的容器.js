@@ -21,12 +21,12 @@ var maxArea = function(height) {
     let l = 0;
     let r = height.length - 1;
     let area = 0;
-    //
     while(l < r){
         let cur = Math.min(height[r], height[l]) * (r - l);
         area = Math.max(cur, area);
 
         // 移动指针
+        // 如果面积想要更大，就把较矮一侧，往里移动
         if (height[l] < height[r]){
             l++;
         } else {
