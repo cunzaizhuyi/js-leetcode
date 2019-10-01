@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/数学类/991-medium-坏了的计算器.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/正则/1023-medium-驼峰式匹配.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/数组类/unSortedArr" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/正则" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
@@ -41,11 +43,11 @@
       <recent name="$PROJECT_DIR$/动态规划" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/正则" />
       <recent name="$PROJECT_DIR$/数组类/unSortedArr" />
       <recent name="$PROJECT_DIR$/数组类/多维数组" />
       <recent name="$PROJECT_DIR$/动态规划" />
       <recent name="$PROJECT_DIR$/二分查找" />
-      <recent name="$PROJECT_DIR$/数组类/sortedArr" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -143,7 +145,7 @@
       <workItem from="1569662418172" duration="125000" />
       <workItem from="1569663397301" duration="6188000" />
       <workItem from="1569769646557" duration="479000" />
-      <workItem from="1569847362569" duration="15021000" />
+      <workItem from="1569847362569" duration="16221000" />
     </task>
     <servers />
   </component>
