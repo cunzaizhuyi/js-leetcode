@@ -34,19 +34,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/数组类/sortedArr" />
-      <recent name="$PROJECT_DIR$/哈希表" />
-      <recent name="$PROJECT_DIR$/数组类/多维数组" />
-      <recent name="$PROJECT_DIR$/数组类/unSortedArr" />
-      <recent name="$PROJECT_DIR$/数学类" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/数组类/unSortedArr" />
       <recent name="$PROJECT_DIR$/字符串" />
       <recent name="$PROJECT_DIR$/递归" />
       <recent name="$PROJECT_DIR$/数学类" />
       <recent name="$PROJECT_DIR$/动态规划" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/二分查找" />
+      <recent name="$PROJECT_DIR$/数组类/sortedArr" />
+      <recent name="$PROJECT_DIR$/哈希表" />
+      <recent name="$PROJECT_DIR$/数组类/多维数组" />
+      <recent name="$PROJECT_DIR$/数组类/unSortedArr" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -144,7 +144,7 @@
       <workItem from="1569662418172" duration="125000" />
       <workItem from="1569663397301" duration="6188000" />
       <workItem from="1569769646557" duration="479000" />
-      <workItem from="1569847362569" duration="186000" />
+      <workItem from="1569847362569" duration="2421000" />
     </task>
     <servers />
   </component>
