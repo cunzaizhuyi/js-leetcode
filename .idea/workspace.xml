@@ -31,7 +31,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/数组类/unSortedArr" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -42,8 +42,8 @@
       <recent name="$PROJECT_DIR$/动态规划" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/正则" />
       <recent name="$PROJECT_DIR$/数组类/unSortedArr" />
+      <recent name="$PROJECT_DIR$/正则" />
       <recent name="$PROJECT_DIR$/数组类/多维数组" />
       <recent name="$PROJECT_DIR$/动态规划" />
       <recent name="$PROJECT_DIR$/二分查找" />
@@ -144,7 +144,7 @@
       <workItem from="1569662418172" duration="125000" />
       <workItem from="1569663397301" duration="6188000" />
       <workItem from="1569769646557" duration="479000" />
-      <workItem from="1569847362569" duration="21065000" />
+      <workItem from="1569847362569" duration="21964000" />
     </task>
     <servers />
   </component>
