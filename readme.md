@@ -95,6 +95,7 @@ LeetCode刷题仓库
 * 455 easy 分发饼干
 
 ## 动态规划
+* 53 easy 最大子序和
 * 62 medium 不同路径
 * 64 medium 最小路径和
 * 70 easy 爬楼梯
