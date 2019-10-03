@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/动态规划/63-medium-不同路径2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/深度优先搜索DFS/60-medium-第K个排列.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数组类/多维数组/54-medium-螺旋矩阵.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/62-medium-不同路径.js" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/62-medium-不同路径.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,14 +61,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.60-medium-第K个排列.js">
-    <configuration name="1071-easy-字符串的最大公因子.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="1071-easy-字符串的最大公因子.js" working-dir="$PROJECT_DIR$/字符串">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.54-medium-螺旋矩阵.js">
     <configuration name="198-easy-打家劫舍.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="198-easy-打家劫舍.js" working-dir="$PROJECT_DIR$/动态规划">
       <method v="2" />
     </configuration>
     <configuration name="213-medium-打家劫舍2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="213-medium-打家劫舍2.js" working-dir="$PROJECT_DIR$/动态规划">
+      <method v="2" />
+    </configuration>
+    <configuration name="54-medium-螺旋矩阵.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="54-medium-螺旋矩阵.js" working-dir="$PROJECT_DIR$/数组类/多维数组">
       <method v="2" />
     </configuration>
     <configuration name="60-medium-第K个排列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="60-medium-第K个排列.js" working-dir="$PROJECT_DIR$/深度优先搜索DFS">
@@ -81,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.54-medium-螺旋矩阵.js" />
         <item itemvalue="Node.js.60-medium-第K个排列.js" />
         <item itemvalue="Node.js.test.js" />
         <item itemvalue="Node.js.213-medium-打家劫舍2.js" />
         <item itemvalue="Node.js.198-easy-打家劫舍.js" />
-        <item itemvalue="Node.js.1071-easy-字符串的最大公因子.js" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +144,7 @@
       <workItem from="1569662418172" duration="125000" />
       <workItem from="1569663397301" duration="6188000" />
       <workItem from="1569769646557" duration="479000" />
-      <workItem from="1569847362569" duration="31184000" />
+      <workItem from="1569847362569" duration="31843000" />
     </task>
     <servers />
   </component>
