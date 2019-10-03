@@ -32,17 +32,20 @@
 var hasPathSum = function(root, sum) {
 //    只能深搜 先序遍历
     if(!root) return false;
-    let flag = false;
-    let pathSum = root.val;
-    let fn = (cNode) => {
+    let flag = false
+    let fn = (cNode, sum) => {
         if (!cNode.left && !cNode.right){
-            if(pathSum === sum){
-                return true;
-            }else{
-                pathSum = root.val;
+            if (cNode.val === sum) {
+                flag = true;
             }
         }
+        if(cNode.left){
+            fn(cNode.left, sum - cNode.val);
+        }
+        if(cNode.right){
+            fn(cNode.right, sum - cNode.val);
+        }
     }
-    fn(root)
+    fn(root, sum)
     return flag;
 };
