@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/深度优先搜索DFS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/动态规划" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
@@ -42,11 +41,11 @@
       <recent name="$PROJECT_DIR$/数学类" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/深度优先搜索DFS" />
       <recent name="$PROJECT_DIR$/数组类/unSortedArr" />
       <recent name="$PROJECT_DIR$/数组类/前缀和" />
       <recent name="$PROJECT_DIR$/双指针" />
       <recent name="$PROJECT_DIR$/正则" />
-      <recent name="$PROJECT_DIR$/数组类/多维数组" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -144,7 +143,7 @@
       <workItem from="1569662418172" duration="125000" />
       <workItem from="1569663397301" duration="6188000" />
       <workItem from="1569769646557" duration="479000" />
-      <workItem from="1569847362569" duration="28279000" />
+      <workItem from="1569847362569" duration="28780000" />
     </task>
     <servers />
   </component>
