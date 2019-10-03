@@ -17,7 +17,7 @@
  */
 var spiralOrder = function(matrix) {
     if(!matrix || !matrix.length)return [];
-    
+
     let rowNumber = matrix.length;
     let colNumber = matrix[0].length;
 

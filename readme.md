@@ -73,6 +73,7 @@ LeetCode刷题仓库
 * 784 easy 字母大小写全排列
 
 ## 链表
+* 2 medium 两数相加
 * 19 medium 删除链表的倒数第N个节点
 * 21 easy 合并两个有序链表
 * 24 medium 两两交换链表中的节点

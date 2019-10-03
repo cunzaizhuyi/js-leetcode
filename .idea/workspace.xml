@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366f58dd-d405-468d-b2a7-99db9018133a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/数组类/多维数组/54-medium-螺旋矩阵.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数组类/多维数组/54-medium-螺旋矩阵.js" beforeDir="false" afterPath="$PROJECT_DIR$/数组类/多维数组/54-medium-螺旋矩阵.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/动态规划" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/链表" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
@@ -144,7 +145,7 @@
       <workItem from="1569662418172" duration="125000" />
       <workItem from="1569663397301" duration="6188000" />
       <workItem from="1569769646557" duration="479000" />
-      <workItem from="1569847362569" duration="31843000" />
+      <workItem from="1569847362569" duration="33861000" />
     </task>
     <servers />
   </component>
