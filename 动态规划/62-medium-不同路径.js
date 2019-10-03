@@ -37,7 +37,7 @@ var uniquePaths = function(m, n) {
 
 
 /**
- * 迭代
+ * 迭代。
  * @param {number} m
  * @param {number} n
  * @return {number}
@@ -45,12 +45,12 @@ var uniquePaths = function(m, n) {
 var uniquePaths2 = function(m, n) {
     if(m===1 || n === 1) return 1;
     if (m === 2 && n === 2) return 2;
-    if(m=== 3 && n===2)return 3;
-    if(m=== 2 && n===3)return 3;
+    if(m=== 3 && n===2) return 3;
+    if(m=== 2 && n===3) return 3;
     let arr = new Array(m).fill([])
     arr.forEach((row, index) => {
         arr[index] = new Array(n).fill(1)
-    })
+    });
     arr[0][0] = 1;
     arr[0][1] = 1;
     arr[1][0] = 1;
