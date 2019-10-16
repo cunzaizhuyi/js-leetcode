@@ -59,7 +59,7 @@ var minFallingPathSum2 = (A) => {
     for(let i = 0; i < A[0].length; i++){
         dp[0][i] = A[0][i];
     }
-    // 从第一行开始
+    // 从第2行开始
     for(let i = 1; i < A.length; i++){
         for(let j = 0; j < A[0].length; j++){
             let l = dp[i-1][j-1] ? dp[i-1][j-1] : Number.MAX_SAFE_INTEGER;
