@@ -21,14 +21,12 @@
 
 /**
  * dfs超时
- * @param {number[][]} A
- * @return {number}
  */
 var minFallingPathSum = function(A) {
     if(!A.length)return 0;
 
     let minSum = Number.MAX_SAFE_INTEGER;
-    let dfs = (rowNumber, curCol, tmpSum, arr) => { // 第二个参数是当前列
+    let dfs = (rowNumber, curCol, tmpSum, arr) => {
         if(rowNumber === arr.length - 1){
             if(tmpSum < minSum){
                 minSum = tmpSum;
@@ -39,9 +37,7 @@ var minFallingPathSum = function(A) {
         let s = curCol - 1 >= 0 ? curCol - 1 : 0;
         let w = curCol + 1 > A[0].length - 1 ? A[0].length - 1 : curCol + 1;
         for(let i = s; i <= w; i++){
-            if(curCol - 1 <= i && curCol + 1 >= i){
-                dfs(rowNumber+1, i, tmpSum+A[rowNumber+1][i], arr);
-            }
+            dfs(rowNumber+1, i, tmpSum+A[rowNumber+1][i], arr);
         }
     };
     for(let i = 0; i < A[0].length; i++){
