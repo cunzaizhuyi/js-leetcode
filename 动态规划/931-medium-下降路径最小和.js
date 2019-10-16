@@ -49,4 +49,30 @@ var minFallingPathSum = function(A) {
     }
     return minSum;
 };
-console.log(minFallingPathSum([[1,2,3], [4,5,6], [7,8,9]]))
+
+
+
+// 换用动态规划的方式, 复杂福n*n
+var minFallingPathSum2 = (A) => {
+    if(!A.length)return 0;
+
+    let dp = [];
+    for(let i = 0; i < A.length; i++){
+        dp[i] = []
+    }
+    for(let i = 0; i < A[0].length; i++){
+        dp[0][i] = A[0][i];
+    }
+    // 从第一行开始
+    for(let i = 1; i < A.length; i++){
+        for(let j = 0; j < A[0].length; j++){
+            let l = dp[i-1][j-1] ? dp[i-1][j-1] : Number.MAX_SAFE_INTEGER;
+            let r = dp[i-1][j+1] ? dp[i-1][j+1] : Number.MAX_SAFE_INTEGER;
+            let v = Math.min(dp[i-1][j], l, r) + A[i][j];
+            dp[i][j] = v;
+        }
+    }
+    return Math.min(...dp[dp.length - 1])
+}
+
+console.log(minFallingPathSum2([[1,2,3], [4,5,6], [7,8,9]]))
