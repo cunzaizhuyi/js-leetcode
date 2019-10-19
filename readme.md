@@ -104,6 +104,7 @@ LeetCode刷题仓库
 * 62 medium 不同路径
 * 64 medium 最小路径和
 * 70 easy 爬楼梯
+* 152 medium 乘积最大子序列
 * 198 easy 打家劫舍
 * 213 medium 打家劫舍II
 * 249 medium 完全平方数
