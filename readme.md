@@ -111,6 +111,7 @@ LeetCode刷题仓库
 * 249 medium 完全平方数
 * 300 medium 最长上升子序列
 * 322 medium 零钱兑换
+* 375 medium 猜数字大小2
 * 583 medium 两个字符串的删除操作
 * 746 easy 使用最小花费爬楼梯
 * 931 medium 下降路径最小和
