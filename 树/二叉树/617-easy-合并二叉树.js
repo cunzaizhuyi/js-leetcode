@@ -23,13 +23,10 @@ var mergeTrees = function(t1, t2) {
 
     let fn = (l, r) => {
         l.val = l.val + r.val;
+        if(!l.left && !r.left && !l.right && !r.right){
+            return;
+        }
 
-        if(!l.left && !r.left){
-            return;
-        }
-        if(!l.right && !r.right){
-            return;
-        }
         if(l.left && r.left){
             fn(l.left, r.left)
         }
