@@ -20,6 +20,7 @@
 
 
 /**
+ * 动态规划法
  * @param {number[]} nums
  * @return {boolean}
  */
@@ -43,4 +44,27 @@ var canPartition = function(nums) {
     }
     return !!dp[half]
 };
-console.log(canPartition([1,2,5]))
+
+
+// dfs
+// var canPartition2 = (nums) => {
+//     if(!nums.length) return false;
+//     if(nums.length === 1) return false;
+//     let sum = nums.reduce((p, n) => {
+//         return p + n;
+//     }, 0);
+//     if(sum % 2 !== 0) return false;
+//
+//     let half = sum / 2;
+//     let dfs = (nums, target, index) => {
+//         if(target === 0) return true;
+//         if(index === nums.length || target < 0) return false;
+//
+//         for(let i = index; i < nums.length; i++){
+//             dfs(nums, target - nums[i], ++index);
+//         }
+//     };
+//     return dfs(nums, half, 0);
+// };
+
+console.log(canPartition2([1,5,11,5]))
