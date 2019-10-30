@@ -113,6 +113,7 @@ LeetCode刷题仓库
 * 300 medium 最长上升子序列
 * 322 medium 零钱兑换
 * 375 medium 猜数字大小2
+* 416 medium 分割等和子集
 * 583 medium 两个字符串的删除操作
 * 746 easy 使用最小花费爬楼梯
 * 931 medium 下降路径最小和
