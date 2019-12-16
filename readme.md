@@ -94,6 +94,7 @@ LeetCode刷题仓库
 * 445 medium 两数相加2
 * 707 easy 设计链表
 * 1019 medium 链表中的下一个更大节点
+* 5283 easy 二进制链表转整数
 
 ## 贪心
 * 55 medium 跳跃游戏
