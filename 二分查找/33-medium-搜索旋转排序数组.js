@@ -20,6 +20,8 @@
 //
 
 
+// 解题思路：
+// https://www.cnblogs.com/ariel-dreamland/p/9138064.html
 let search = (nums, target) => {
     if (!nums.length) return -1;
     if (nums.length <= 3) return nums.indexOf(target);
