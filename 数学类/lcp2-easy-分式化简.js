@@ -19,7 +19,7 @@ var fraction = function(cont) {
         fenzi = cont[i] * fenmu + fenzi;
         [fenzi, fenmu] = [fenmu, fenzi]
     }
-    // 最后一次，其实不用再取倒数了，但是上面循环取到数了，所以下面再倒一次
+    // 最后一次，其实不用再取倒数了，但是上面循环取倒数了，所以下面再倒一次
     return [fenmu, fenzi]
 };
 console.log(fraction([1, 5, 6, 6, 5, 7, 5, 5, 4, 7]))
