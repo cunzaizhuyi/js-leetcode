@@ -6,8 +6,6 @@ LeetCode刷题仓库
 如果你有更好的解法或者疑问，欢迎提交issue。
 
 
-## 前端算法交流
-[wx](https://github.com/cunzaizhuyi/js-leetcode/blob/master/img/wx.jpeg)
 
 ## 数组类
 
@@ -151,3 +149,7 @@ LeetCode刷题仓库
 
 ## 其他
 705 easy 设计哈希集合
+
+
+## 前端算法交流
+![wx](https://github.com/cunzaizhuyi/js-leetcode/blob/master/img/wx.jpeg)
