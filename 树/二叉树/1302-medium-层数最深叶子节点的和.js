@@ -2,6 +2,8 @@
 
 //给你一棵二叉树，请你返回层数最深的叶子节点的和。
 
+
+// 宽度优先搜索BFS 解法
 var deepestLeavesSum = (root) => {
     if (!root) return 0;
     let bfs = (nodes) => {
