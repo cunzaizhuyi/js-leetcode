@@ -1,6 +1,7 @@
 ## 深度优先搜素
 
 * 17 medium 电话号码的字母组合
+* 22 medium 括号生成
 * 39 medium 组合总和
 * 40 medium 组合总和2
 * 46 medium 全排列
