@@ -84,4 +84,4 @@ LeetCode刷题仓库
 
 
 ## 前端算法交流
-![wx](https://github.com/cunzaizhuyi/js-leetcode/blob/master/img/wx.jpeg)
+![wx](https://github.com/cunzaizhuyi/js-leetcode/blob/master/img/fe-algo.jpeg)
