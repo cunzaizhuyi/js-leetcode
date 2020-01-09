@@ -1,6 +1,6 @@
 LeetCode刷题仓库
 
-我的前端算法库：https://github.com/cunzaizhuyi/js-leetcode
+前端算法库：https://github.com/cunzaizhuyi/js-leetcode
 这里记录了我刷过的400多道LeetCode的题解，
 希望对前端同行找工作面试、修炼算法内功有帮助。
 
