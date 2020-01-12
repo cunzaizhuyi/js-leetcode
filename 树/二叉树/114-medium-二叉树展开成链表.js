@@ -31,7 +31,7 @@ var flatten = function(root) {
         leaf.right = r;
         // 将左子树放到右子树
         node.right = l;
-        node.left = null;
+        node.left = null; // 别忘了
 
         // 递归下一个节点
         node = node.right;
