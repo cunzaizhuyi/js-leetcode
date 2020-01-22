@@ -48,11 +48,13 @@ var removeDuplicates = function(s, k) {
                     break;
                 }
             }
+            // 如果是从i起，重复K个。删除这K个字符，继续递归。
             if (flag){
                 arr.splice(i, k);
                 fn(arr, k);
             }
         }
+        // 压根没有K个重复的情况
         return arr.join('');
     };
     return fn(arr, k);
