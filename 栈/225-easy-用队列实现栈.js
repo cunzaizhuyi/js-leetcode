@@ -1,3 +1,5 @@
+// 225 easy 用队列实现栈
+
 /**
  * Initialize your data structure here.
  */
