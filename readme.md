@@ -7,7 +7,7 @@ LeetCode刷题仓库
 
 
 
-另外，下面这个仓库是经典数据结构与算法的js实现。先过一遍这个，再刷题效果更好。
+另外，刷题之前，先看下经典数据结构与算法的js实现是很重要的。
 [js实现经典数据结构与算法地址](https://github.com/cunzaizhuyi/ds-algorithm)
 
 
