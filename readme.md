@@ -11,6 +11,11 @@ LeetCode刷题仓库
 [js实现经典数据结构与算法地址](https://github.com/cunzaizhuyi/ds-algorithm)
 
 
+新媒体时代，要顺应潮流，少写文章教程，多录视频讲解。
+一些算法的视频讲解：https://space.bilibili.com/443094046
+欢迎关注。
+
+
 ## 数组类
 
 [点这里](数组题目.md)
