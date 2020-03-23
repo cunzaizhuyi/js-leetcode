@@ -86,6 +86,7 @@ LeetCode刷题仓库
 ## 排序
 * 406 medium 根据身高重建队列
 * 846 medium 一手顺子
+* 5350 medium 将整数按权重排序
 
 ## 正则
 1023 medium 驼峰式匹配
