@@ -91,6 +91,7 @@ LeetCode刷题仓库
 
 ## 正则
 1023 medium 驼峰式匹配
+* 5382 medium HTML 实体解析器
 
 ## 日期问题
 1360 easy 日期之间间隔几天
