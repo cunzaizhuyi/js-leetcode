@@ -21,38 +21,3 @@
 // 1 <= arr[i].length <= 26
 // arr[i] 中只含有小写英文字母
 
-// 判断一个字符串里面有无重复字符
-var hasRepeatChar = (str) => {
-    let h = {}
-    for(let i = 0; i < str.length; i++){
-        if(h[str[i]])return true;
-        h[str[i]] = true
-    }
-    return false;
-}
-
-
-/**
- * @param {string[]} arr
- * @return {number}
- */
-var maxLength = function(arr) {
-    if(arr.length === 1){
-        return hasRepeatChar(arr[0]) ? 0: arr[0].length
-    }
-    // 删除数组项自身包含重复元素的
-    for (let i = arr.length - 1; i >= 0; i--) {
-        if(hasRepeatChar(arr[i])){
-            arr.splice(i, 1)
-        }
-    }
-    let res = 0
-    for(let i = 0; i < arr.length; i++){
-        for(let j = 0; j < arr.length; j++){
-            if(i!==j && !hasRepeatChar(arr[i] + arr[j])){
-                res = Math.max(res, (arr[i] + arr[j]).length)
-            }
-        }
-    }
-    return res;
-};
