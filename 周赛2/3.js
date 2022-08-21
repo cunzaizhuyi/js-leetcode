@@ -1,34 +1,33 @@
 
-
-var getCan = (s1, s2) => {
-    let a1 = s1.split('')
-    let a2 = s2.split('')
-    a2.sort();
-
-    let h = {};
+let isSub = (a1, a2) => {
     for(let i = 0; i < a1.length; i++){
-        h[a1[i]] = ~~h[a1[i]] + 1;
+        if(a2.indexOf(a1[i]) === -1){
+            return false
+        }
     }
-    for(let i = 0; i < a2.length; i++){
-        let char = a2[i]
-        while(1){
-            if(h[char]){
-                h[char]--;
-                break;
-            }else{
-                if(char === 'z') return false;
-                char = String.fromCharCode(char.charCodeAt(0) + 1);
+    return true
+}
+
+var peopleIndexes = function(favoriteCompanies) {
+    let res = []
+    for(let i = 0; i < favoriteCompanies.length; i++){
+        for(let j = 0; j < favoriteCompanies.length; j++){
+            if(i!==j && isSub(favoriteCompanies[i], favoriteCompanies[j])){
+                if(res.indexOf(i)===-1){
+                    res.push(i)
+                }
             }
         }
     }
-    return true;
-}
 
-var checkIfCanBreak = function(s1, s2) {
-    let f1 = getCan(s1, s2);
-    if (f1) {
-        return f1;
-    }else{
-        return getCan(s2, s1);
+    let aa = []
+    for(let i = 0; i < favoriteCompanies.length; i++){
+        aa.push(i)
     }
+    for (let i = res.length - 1; i >= 0; i--) {
+        aa.splice(res[i], 1)
+    }
+    return aa
 };
+
+console.log(peopleIndexes([["leetcode","google","facebook"],["google","microsoft"],["google","facebook"],["google"],["amazon"]]))
